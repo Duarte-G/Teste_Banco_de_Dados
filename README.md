@@ -1,6 +1,6 @@
 # Teste de Banco de Dados - Análise de Despesas de Operadoras de Saúde  
 
-Este repositório contém scripts SQL utilizados para estruturar, importar e analisar dados de despesas de operadoras de saúde. O objetivo é extrair insights a partir de arquivos CSV contendo informações financeiras trimestrais.  
+Este repositório contém scripts SQL utilizados para estruturar, importar e analisar dados de despesas de operadoras de saúde. O objetivo é extrair dados a partir de arquivos CSV contendo informações financeiras trimestrais.  
 
 ## Estrutura do Repositório  
 docs/ # Contém os arquivos de dados brutos
